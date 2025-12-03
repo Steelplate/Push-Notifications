@@ -20,8 +20,8 @@ From local copy:
 pip install notification_service-1.0-py3-none-any.whl
 ```
 
-From GIT copy
+From GitHub copy
 ```bash
-pip install ...
+pip install https://github.com/Steelplate/Push-Notifications/raw/ee7c380ad7602c202b2b4ec5c923c8ea2c0a026c/dist/notification_service-1.0-py3-none-any.whl
 ```
 
