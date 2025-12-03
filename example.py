@@ -1,6 +1,6 @@
-from notificationService import service
+from notification_service import Service
 
-push = service("config.yaml")
+push = Service("config.yaml")
 
 success = push.notification("Hello World", "test.png")
 print(success)
